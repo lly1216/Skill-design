@@ -1,0 +1,10 @@
+# 打包产物（上传类工具用的 zip）
+*.zip
+dist/
+
+# 操作系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
